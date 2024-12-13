@@ -1,5 +1,12 @@
+// IMPORTO HEADER
+import Header from "./assets/Components/Header";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
 
 export default App;
