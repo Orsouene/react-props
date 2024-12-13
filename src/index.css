@@ -14,3 +14,18 @@ header {
 body {
   background-color: #e5e5e5;
 }
+
+/* Footer */
+footer {
+  height: 100px;
+  background-color: #333333;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-p {
+  width: 80%;
+}
