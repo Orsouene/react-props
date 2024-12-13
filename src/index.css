@@ -14,7 +14,21 @@ header {
 body {
   background-color: #e5e5e5;
 }
-
+/* Main */
+main {
+  margin: 0 auto;
+  padding-top: 20px;
+  gap: 10px;
+}
+.card {
+  width: 20rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.box {
+  padding-bottom: 200px;
+}
 /* Footer */
 footer {
   height: 100px;
