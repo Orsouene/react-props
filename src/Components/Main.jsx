@@ -2,6 +2,8 @@
 import posts from "../Data/Post";
 // IMPORTO LE CARDS
 import Card from "./Card";
+// importo section
+import Section from "./Section";
 
 function Main() {
   return (
@@ -21,6 +23,9 @@ function Main() {
             )
         )}
       </div>
+      <section>
+        <Section />
+      </section>
     </main>
   );
 }

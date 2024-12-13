@@ -1,0 +1,17 @@
+/* Assegno un colore di background per ogni elemento in ogni array di tag */
+
+.htmlTag {
+  background-color: rgb(4, 167, 4);
+}
+
+.cssTag {
+  background-color: rgb(216, 160, 169);
+}
+
+.phpTag {
+  background-color: rgb(214, 86, 64);
+}
+
+.jsTag {
+  background-color: rgb(77, 49, 49);
+}
