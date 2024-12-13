@@ -1,9 +1,9 @@
 // IMPORTO HEADER
-import Header from "./assets/Components/Header";
+import Header from "./Components/Header";
 // IMPORTO IL FOOTER
-import Footer from "./assets/Components/Footer";
+import Footer from "./Components/Footer";
 // IMPORTO MAIN
-import Main from "./assets/Components/Main";
+import Main from "./Components/Main";
 function App() {
   return (
     <>
